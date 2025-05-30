@@ -1,11 +1,11 @@
 # RetroGames
 
 
-# 🎮 The Timeless Charm of Retro Games
 
 <h2>
-  <a href="https://retrogames.my" style="color: blue;">CLICK TO PLAY</a>
+  <a href="https://retrogames.my" style="color: blue;">The Timeless Charm of Retro Games</a>
 </h2>
+
 
 
 In a world where gaming is increasingly defined by hyper-realistic graphics and massive open-worlds, **retro games** continue to stand strong. These pixelated classics from the 70s, 80s, 90s, and early 2000s have carved out a permanent space in the hearts of gamers around the globe.

@@ -3,7 +3,7 @@
 
 
 <h2>
-  <a href="https://retrogames.my" style="color: blue;">The Timeless Charm of Retro Games</a>
+  <a href="https://retrogameszone.com" style="color: blue;">The Timeless Charm of Retro Games</a>
 </h2>
 
 
